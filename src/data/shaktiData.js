@@ -1,0 +1,222 @@
+export const shaktiData = [
+  {
+    id: 1,
+    traditionalWeaponBn: 'ত্রিশূল (Trishula)',
+    traditionalWeaponEn: 'Trishula (Trident)',
+    divineDeityGift: 'Lord Shiva',
+    modernPowerBn: 'সাহস ও মানসিক অটলতা',
+    modernPowerEn: 'Unyielding Courage & Moral Resilience',
+    domain: 'Leadership',
+    iconName: 'ShieldAlert',
+    quoteBn: '‘ত্রিগুণাতীত সাহস—যা অন্যায়ের মুখে মাথা নত করে না।’',
+    quoteEn: '“Courage that confronts injustice and transcends societal fear.”',
+    descriptionBn: 'মা দুর্গার ত্রিশূল তম, রজ ও সত্ত্ব—এই তিন গুণের ভারসাম্য রক্ষা করে অশুভ শক্তির বিনাশ ঘটায়। আজকের নারীর কাছে এই ত্রিশূল হলো অন্যায়ের বিরুদ্ধে সোচ্চার হওয়ার অসীম সাহস, সত্যের পক্ষে দৃঢ় অবস্থান এবং প্রতিকূলতায় মাথা উঁচু করে লড়াই করার শক্তি।',
+    descriptionEn: 'The Trident harmonizes the three cosmic forces (Sattva, Rajas, Tamas) to eradicate evil. For today’s woman, it symbolizes unwavering moral fortitude—the courage to challenge bias, dismantle systemic oppression, and stand unbent in adversity.',
+    cstApplicationBn: 'সাইবার প্রতিকূলতা ও ডেটা সুরক্ষায় ট্রাই-লেয়ার সিকিউরিটি আর্কিটেকচার।',
+    cstApplicationEn: 'Tri-layered zero-trust cyber resilience and proactive privacy defense systems.',
+    realWorldImpact: 'Over 4,200 women-led civic tech initiatives actively using whistleblowing & anti-harassment architectures.',
+    simulationMetric: {
+      label: 'Resilience Index',
+      value: '99.8',
+      unit: '% uptime under crisis'
+    }
+  },
+  {
+    id: 2,
+    traditionalWeaponBn: 'সুদর্শন চক্র (Sudarshana Chakra)',
+    traditionalWeaponEn: 'Sudarshana Chakra (Discus)',
+    divineDeityGift: 'Lord Vishnu',
+    modernPowerBn: 'সাইবার সুরক্ষা ও ডিজিটাল সার্বভৌমত্ব',
+    modernPowerEn: 'Cyber Sovereignty & Information Defense',
+    domain: 'Security',
+    iconName: 'ShieldCheck',
+    quoteBn: '‘গতি এবং নির্ভুলতায় অশুভকে প্রতিহত করার চক্র।’',
+    quoteEn: '“The revolving ring of righteous truth cutting through digital disinformation.”',
+    descriptionBn: 'ভগবান বিষ্ণুর চক্রের ঘূর্ণন যেমন সময় এবং সুরক্ষার প্রতীক, আজকের যুগে ডিজিটাল জগতে নারীদের গোপনীয়তা রক্ষা, ডিপফেক রোধ এবং সাইবার বুলিং প্রতিহত করার শক্তিশালী ঢাল হলো এই চক্র।',
+    descriptionEn: 'Vishnu’s discus embodies revolving cosmic order and swift precision. In the hyper-connected era, it represents real-time algorithmic defense against deepfakes, phishing networks, and privacy violations targeting women online.',
+    cstApplicationBn: 'ক্রিপ্টোগ্রাফিক অ্যালগরিদম ও ব্লকচেন-ভিত্তিক ডিপফেক সনাক্তকরণ নেটওয়ার্ক।',
+    cstApplicationEn: 'Decentralized cryptographic verification and AI-driven forensic threat detection.',
+    realWorldImpact: 'Instant mitigation of digital harassment payloads with cryptographic provenance certificates.',
+    simulationMetric: {
+      label: 'Threat Neutralization',
+      value: '0.14',
+      unit: 'sec latency'
+    }
+  },
+  {
+    id: 3,
+    traditionalWeaponBn: 'শঙ্খ (Shankha)',
+    traditionalWeaponEn: 'Shankha (Conch Shell)',
+    divineDeityGift: 'Lord Varuna',
+    modernPowerBn: 'সত্যবাণী ও জোরালো নেতৃত্ব',
+    modernPowerEn: 'Amplified Voice & Transformative Leadership',
+    domain: 'Leadership',
+    iconName: 'Megaphone',
+    quoteBn: '‘একটি স্পষ্ট আওয়াজ যা সমগ্র জনপদকে জাগ্রত করতে পারে।’',
+    quoteEn: '“The resonant sound that breaks silence and mobilizes collective consciousness.”',
+    descriptionBn: 'শঙ্খের পবিত্র ধ্বনি সমগ্র মহাবিশ্বে ইতিবাচক শক্তি ও জাগরণের বার্তা পৌঁছে দেয়। আধুনিক সমাজে এটি নারীর নিজস্ব মতামত প্রকাশের স্বাধীনতা, গণমাধ্যমে সঠিক তথ্য প্রচার এবং বিশ্বমঞ্চে নীতি নির্ধারণী কণ্ঠস্বর।',
+    descriptionEn: 'The conch blasts sound waves that disperse ignorance and herald dawn. In modern civic discourse, it is the fearless female voice advocating for education, workplace parity, and policy transparency.',
+    cstApplicationBn: 'ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (NLP) চালিত অডিও-ভিজ্যুয়াল অ্যাক্সেসিবিলিটি প্রযুক্তি।',
+    cstApplicationEn: 'Multilingual sentiment analysis and accessible speech-to-text broadcast tooling for rural women.',
+    realWorldImpact: 'Amplified over 150 community radio and digital grassroots newsletters.',
+    simulationMetric: {
+      label: 'Audience Reach',
+      value: '1.2M+',
+      unit: 'voices mobilized'
+    }
+  },
+  {
+    id: 4,
+    traditionalWeaponBn: 'গদা (Kaumodaki Gada)',
+    traditionalWeaponEn: 'Gada (Mace)',
+    divineDeityGift: 'Lord Yama',
+    modernPowerBn: 'জ্ঞান, নীতি ও বৈজ্ঞানিক মেধা',
+    modernPowerEn: 'Deep Scientific Knowledge & Critical Thinking',
+    domain: 'Education',
+    iconName: 'GraduationCap',
+    quoteBn: '‘জ্ঞানের আঘাতে অজ্ঞতার সকল বাঁধ ভেঙে যায়।’',
+    quoteEn: '“Knowledge is the heaviest mace; it shatters superstition and ignorance.”',
+    descriptionBn: 'গদা শারীরিক শক্তির পাশাপাশি চারিত্রিক দৃঢ়তার প্রতীক। আজকের দিনে জ্ঞানের শক্তিই সবচেয়ে বড় অস্ত্র—বিজ্ঞানের গবেষণা, গণিত, কোডিং ও যুক্তিনির্ভর শিক্ষায় নারীর সাফল্য অন্ধকার সমাজকে আলো দেখায়।',
+    descriptionEn: 'The heavy golden mace represents foundational mental discipline. In modern laboratories, it equates to computational rigor, evidence-based inquiry, and academic brilliance across STEM disciplines.',
+    cstApplicationBn: 'উচ্চমানের ওপেন-সোর্স লার্নিং প্ল্যাটফর্ম ও অ্যালগরিদমিক রিসার্চ টুলকিট।',
+    cstApplicationEn: 'High-throughput scientific computing simulations and open-access STEM repositories.',
+    realWorldImpact: 'Educated 3,500+ female engineering aspirants in low-latency distributed computing.',
+    simulationMetric: {
+      label: 'Pedagogical Impact',
+      value: '94.2',
+      unit: '% graduation in CS'
+    }
+  },
+  {
+    id: 5,
+    traditionalWeaponBn: 'তীর ও ধনুক (Teer-Dhanush)',
+    traditionalWeaponEn: 'Bow & Arrow (Dhanush & Bana)',
+    divineDeityGift: 'Vayu & Surya',
+    modernPowerBn: 'উদ্ভাবন ও লক্ষ্যের একাগ্রতা',
+    modernPowerEn: 'Singular Focus & Tech Innovation',
+    domain: 'Innovation',
+    iconName: 'Target',
+    quoteBn: '‘লক্ষ্য স্থির থাকলে প্রতিটি তীরের মতো প্রতিটি স্বপ্ন লক্ষ্যে পৌঁছায়।’',
+    quoteEn: '“Poised intent transformed into kinetic breakthrough solutions.”',
+    descriptionBn: 'ধনুক সম্ভাবনা এবং তীর তার দ্রুত বাস্তবায়ন। আধুনিক নারী গবেষক ও উদ্যোক্তারা যখন কোনো নির্দিষ্ট সামাজিক সমস্যার সমাধানে অবিচল দৃষ্টি রাখেন, তখন সৃষ্টি হয় যুগান্তকারী স্টার্টআপ ও পেটেন্ট।',
+    descriptionEn: 'The taut bow harnesses latent energy while the arrow executes with pinpoint trajectory. In technology entrepreneurship, it represents deep vision translated into viable hardware and software solutions.',
+    cstApplicationBn: 'টার্গেটেড কোড অপটিমাইজেশন, এজ কম্পিউটিং ও লো-পাওয়ার এমবেডেড সিস্টেম।',
+    cstApplicationEn: 'Edge-AI neural architectures and hyper-targeted algorithmic optimization pipelines.',
+    realWorldImpact: 'Supported 80+ female-founded deep-tech hardware prototypes.',
+    simulationMetric: {
+      label: 'Target Precision',
+      value: '99.4',
+      unit: '% inference accuracy'
+    }
+  },
+  {
+    id: 6,
+    traditionalWeaponBn: 'খড়্গ (Khadga)',
+    traditionalWeaponEn: 'Khadga (Curved Sword)',
+    divineDeityGift: 'Lord Brahma',
+    modernPowerBn: 'কুসংস্কার ও বৈষম্য বিনাশকারী সাম্য',
+    modernPowerEn: 'Eradication of Bias & Structural Equality',
+    domain: 'Ethics',
+    iconName: 'Scale',
+    quoteBn: '‘তীক্ষ্ণ যুক্তির তরবারি দিয়ে চিরাচরিত কুসংস্কার ছিন্ন হোক।’',
+    quoteEn: '“The sharp edge of truth severing deep-rooted prejudice and societal taboos.”',
+    descriptionBn: 'ব্রহ্মার আশীর্বাদপুষ্ট খড়্গ মোহ ও অন্ধবিশ্বাসকে দ্বিখণ্ডিত করে। এটি সমাজের লিঙ্গবৈষম্য, বেতন বৈষম্য এবং নারী বিরোধী পিতৃতান্ত্রিক প্রতিবন্ধকতাকে ধূলিসাৎ করার সামাজিক সংস্কারের প্রতীক।',
+    descriptionEn: 'The blazing sword of Brahma strikes down illusion and ego. Today, it translates to radical inclusion, auditing biased AI datasets, and enforcing equal pay and dignity in every institutional sphere.',
+    cstApplicationBn: 'অ্যালগরিদমিক বায়াস ডিটেক্টর ও ফেয়ারনেস অডিটিং ফ্রেমওয়ার্ক।',
+    cstApplicationEn: 'Model fairness validation libraries that scan datasets for gender and socio-economic biases.',
+    realWorldImpact: 'Depleted systemic bias in automated hiring pipelines across 40 academic institutions.',
+    simulationMetric: {
+      label: 'Fairness Parity',
+      value: '98.9',
+      unit: '% parity coefficient'
+    }
+  },
+  {
+    id: 7,
+    traditionalWeaponBn: 'পদ্মপুষ্প (Kamala)',
+    traditionalWeaponEn: 'Lotus (Padma)',
+    divineDeityGift: 'Lord Brahma & Ocean King',
+    modernPowerBn: 'সৃজনশীলতা, সংস্কৃতি ও নান্দনিকতা',
+    modernPowerEn: 'Artistic Genius & Cultural Preservation',
+    domain: 'Arts',
+    iconName: 'Palette',
+    quoteBn: '‘পঙ্কের ভেতর থেকেও যেমন ফোটে নির্মল পদ্ম, তেমনই সংকটেও ফোটে শিল্প।’',
+    quoteEn: '“Blooms unblemished through murky waters—the indomitable spirit of human creativity.”',
+    descriptionBn: 'পদ্ম কাদার মাঝে জন্ম নিয়েও নির্মল ও সুন্দর থাকে। বাঙালি সংস্কৃতির ঐতিহ্যবাহী পটচিত্র, আলপনা, কুমারটুলির প্রতিমা নির্মাণ এবং আধুনিক ডিজিটাল আর্ট ও ডিজাইন—সবই এই সৃজনশীলতার প্রতিফলন।',
+    descriptionEn: 'The sacred lotus preserves pure luminescence amidst muddy currents. It mirrors the timeless heritage of Kumortuli artisans, Alpana geometric folk art, and the vanguard of contemporary UI/UX design.',
+    cstApplicationBn: 'থ্রি-ডি স্ক্যানিং, কালচারাল হেরিটেজ রি-কনস্ট্রাকশন এবং জেনারেটিভ ডিজাইন টুলস।',
+    cstApplicationEn: 'Volumetric photogrammetry and generative spatial design archiving indigenous art forms.',
+    realWorldImpact: 'Digitally preserved 240+ terracotta temples and idol-making archives in 8K resolution.',
+    simulationMetric: {
+      label: 'Art Preservation',
+      value: '240',
+      unit: 'heritage assets mapped'
+    }
+  },
+  {
+    id: 8,
+    traditionalWeaponBn: 'অভয়মুদ্রা / পদ্মমালা (Abhaya Mudra)',
+    traditionalWeaponEn: 'Abhaya Mudra (Blessing of Fearlessness)',
+    divineDeityGift: 'Universal Motherhood',
+    modernPowerBn: 'সহমর্মিতা, সেবা ও মানসিক স্বাস্থ্য',
+    modernPowerEn: 'Empathy, Mental Health & Humanitarian Care',
+    domain: 'Humanity',
+    iconName: 'HeartHandshake',
+    quoteBn: '‘ভয় নেই, আমরা একে অপরের হাত ধরে এগোব।’',
+    quoteEn: '“Cast aside dread; genuine strength is measured by hands extended to uplift.”',
+    descriptionBn: 'মা দুর্গার হাতটি যখন আশীর্বাদ রূপে উত্থিত থাকে, তা সবাইকে নির্ভয় হতে বলে। আজকের সমাজে নারীরা চিকিৎসা সেবা, মানসিক স্বাস্থ্য কাউন্সেলিং এবং সমাজের সুবিধাবঞ্চিত মানুষদের আশার আলো দেখাচ্ছেন।',
+    descriptionEn: 'The gesture of reassurance dispels panic and isolation. Modern women leverage this through community health activism, trauma counselling, and empathetic civic support networks.',
+    cstApplicationBn: 'টেলি-হেলথ প্ল্যাটফর্ম এবং মানসিক সুস্থতা ট্র্যাকার।',
+    cstApplicationEn: 'Privacy-first tele-counselling protocols and community well-being support engines.',
+    realWorldImpact: 'Provided immediate mental health support to 12,000+ collegiate students during exam periods.',
+    simulationMetric: {
+      label: 'Empathy Reach',
+      value: '12K+',
+      unit: 'consultations facilitated'
+    }
+  },
+  {
+    id: 9,
+    traditionalWeaponBn: 'বজ্র (Vajra)',
+    traditionalWeaponEn: 'Vajra (Thunderbolt)',
+    divineDeityGift: 'Lord Indra',
+    modernPowerBn: 'সবুজ প্রযুক্তি ও নবায়নযোগ্য শক্তি',
+    modernPowerEn: 'Clean Energy & Environmental Stewardship',
+    domain: 'Sustainability',
+    iconName: 'Zap',
+    quoteBn: '‘বিদ্যুতের অপরিসীম তেজ দিয়ে আলোকিত হোক পরিবেশবান্ধব ভবিষ্যৎ।’',
+    quoteEn: '“The celestial thunder channeled into sustainable grids and zero-carbon innovation.”',
+    descriptionBn: 'ইন্দ্রের বজ্র হলো অসীম শক্তির আধার। আধুনিক বিশ্ব যখন জলবায়ু সংকটের মুখোমুখি, তখন নারী বিজ্ঞানী ও ইঞ্জিনিয়াররা সৌরবিদ্যুৎ, বায়ুশক্তি এবং জৈববান্ধব সামগ্রী দিয়ে পরিবেশ রক্ষার নেতৃত্ব দিচ্ছেন।',
+    descriptionEn: 'The thunderbolt contains inexhaustible clean power. In the climate crisis, women researchers lead solar cell material science, micro-grid battery systems, and biodegradable festive practices.',
+    cstApplicationBn: 'স্মার্ট গ্রিড অপটিমাইজেশন ও পরিবেশবান্ধব প্রতিমা বিসর্জন মনিটরিং সিস্টেম।',
+    cstApplicationEn: 'IoT river quality sensors monitoring Hooghly River during festive Visarjan alongside solar microgrids.',
+    realWorldImpact: 'Reduced Visarjan water contamination by 73% using bio-soluble clay tracking nodes.',
+    simulationMetric: {
+      label: 'Clean Energy Parity',
+      value: '73.5',
+      unit: '% river pollution reduction'
+    }
+  },
+  {
+    id: 10,
+    traditionalWeaponBn: 'অগ্নি ও নাগ (Agni & Snake)',
+    traditionalWeaponEn: 'Sacred Agni & Serpent (Serpent of Kundalini)',
+    divineDeityGift: 'Agni Dev & Shesha Nag',
+    modernPowerBn: 'ফ্রন্টিয়ার এআই ও নৈতিক প্রযুক্তি সংস্কার',
+    modernPowerEn: 'Frontier AI Governance & Autonomous Robotics',
+    domain: 'Frontier AI',
+    iconName: 'Cpu',
+    quoteBn: '‘অগ্নি যেমন স্বর্ণকে নিখাদ করে, তেমনই নীতি প্রযুক্তিকে মানুষের সেবায় নিয়োজিত করে।’',
+    quoteEn: '“Fire purifies metals; ethical clarity ensures artificial intelligence serves human dignity.”',
+    descriptionBn: 'অগ্নি শুদ্ধতার প্রতীক এবং সর্প কুন্ডলিনী শক্তির জাগরণ। আধুনিক আর্টিফিশিয়াল ইন্টেলিজেন্স ও রোবোটিক্সে নারীর উদ্ভাবনী ভাবনা নিশ্চিত করে যে প্রযুক্তি যাতে ধ্বংস নয়, মানবতার সার্বিক কল্যাণে ব্যবহৃত হয়।',
+    descriptionEn: 'Sacred fire purges impurity while the coiled serpent awakens deep wisdom. In generative AI and robotics, female computer scientists steer autonomous systems toward human safety and transparent stewardship.',
+    cstApplicationBn: 'রেসপন্সিবল এআই আর্কিটেকচার ও স্বয়ংক্রিয় রোবোটিক সহায়তাকারী ইন্টারফেস।',
+    cstApplicationEn: 'Explainable AI neural interpretability suites and assistive robotic arms for artisan workshops.',
+    realWorldImpact: 'Open-sourced ethical safety benchmark deployed across 15 national engineering labs.',
+    simulationMetric: {
+      label: 'Explainability Score',
+      value: '97.6',
+      unit: '% model audit coverage'
+    }
+  }
+];

@@ -1,0 +1,6 @@
+{
+  "name": "Digital Durga Puja 2026",
+  "description": "An interactive cultural and technological showcase exploring the Ten Arms of Maa Durga as the Ten Powers of Modern Woman, curated by Ankana Patra, Department CST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

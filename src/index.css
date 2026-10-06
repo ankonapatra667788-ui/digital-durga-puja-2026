@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-cinzel: 'Cinzel', serif;
+    --font-playfair: 'Playfair Display', serif;
+    --font-bengali: 'Hind Siliguri', sans-serif;
+    --font-body: 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+/* Custom festive styling */
+.font-display {
+  font-family: var(--font-cinzel), var(--font-playfair), serif;
+}
+
+.font-editorial {
+  font-family: var(--font-playfair), serif;
+}
+
+.font-bengali {
+  font-family: var(--font-bengali), sans-serif;
+}
+
+.font-sans-ui {
+  font-family: var(--font-body), sans-serif;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #140407;
+}
+::-webkit-scrollbar-thumb {
+  background: #5a111b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c59b27;
+}
+
+/* Radial gold aura */
+.gold-glow {
+  box-shadow: 0 0 35px rgba(238, 198, 67, 0.25), 0 0 70px rgba(169, 13, 24, 0.15);
+}
+
+.crimson-glow {
+  box-shadow: 0 0 30px rgba(169, 13, 24, 0.35);
+}
